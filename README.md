@@ -2,12 +2,12 @@
 
 Collecting some papers about NN model compression, just like this:
 
-![](https://gitee.com/lebhoryi/PicGoPictureBed/raw/master/img/20201014142430.png)
+<img src="https://gitee.com/lebhoryi/PicGoPictureBed/raw/master/img/20201014142430.png" style="zoom:50%;" />
 
 Five classes:
 
-1. - [ ] Survey
-2. - [ ] Pruning
+1. - [x] Survey  
+2. - [x] Pruning  
 3. - [ ] Quantization
 4. - [ ] NAS
 5. - [ ] Knowledge distillation
