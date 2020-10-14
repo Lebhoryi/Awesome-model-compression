@@ -6,10 +6,10 @@ Collecting some papers about NN model compression, just like this:
 
 Five classes:
 
-1. - [x] Survey  
-2. - [x] Pruning  
-3. - [ ] Quantization
-4. - [ ] NAS
+1. - [x] [Survey](https://github.com/Lebhoryi/Awesome-model-compression/tree/main/Survey)
+2. - [x] [Pruning](https://github.com/Lebhoryi/Awesome-model-compression/tree/main/Pruning)
+3. - [ ] [Quantization](https://github.com/Lebhoryi/Awesome-model-compression/tree/main/Quantization)
+4. - [ ] [NAS](https://github.com/Lebhoryi/Awesome-model-compression/tree/main/NAS)
 5. - [ ] Knowledge distillation
 6. - [ ] Factorization
 7. Compact Network
