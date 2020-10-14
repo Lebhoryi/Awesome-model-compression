@@ -1,0 +1,5 @@
+- (RNN) ” Neural architecture search with reinforcement learning,” in Proc. ICLR, Apr. 2017
+- “Learning transferable architectures for scalable image recognition,” in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit., Jun. 2018, pp. 8697–8710
+- (RNN)“Efficient neural architecture search via parameter sharing,” 2018, arXiv:1802.03268. [Online]. Available: http://arxiv.org/abs/1802.03268
+- (RNN) “DARTS: Differentiable architecture search,” 2018, arXiv:1806.09055. [Online]. Available: http://arxiv.org/abs/1806.09055
+- (transformer) “The evolved transformer,” 2019, arXiv:1901.11117. [Online]. Available: http://arxiv.org/abs/1901.11117
