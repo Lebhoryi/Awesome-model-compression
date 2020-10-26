@@ -2,6 +2,8 @@
 
 [TOC]
 
+![](https://gitee.com/lebhoryi/PicGoPictureBed/raw/master/img/20201026155007.png)
+
 > Thanks for 
 >
 > - [github: he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
@@ -10,6 +12,14 @@
 > - [2019-04-30-神经网络压缩综述](https://github.com/glqglq/glqblog/blob/master/_posts/2019-04-30-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%8E%8B%E7%BC%A9%E7%BB%BC%E8%BF%B0.md)
 
 ![](https://gitee.com/lebhoryi/PicGoPictureBed/raw/master/img/20201014115617.png)
+
+> ** **To be careful** **: 
+>
+> - All the papers with `|` are more important...
+>
+> - There are something wrong in the follow picture, I would fix it in the future. Welcome to submit pr...
+>
+>   <img src="https://gitee.com/lebhoryi/PicGoPictureBed/raw/master/img/20201026154606.png" style="zoom:80%;" />
 
 # 0 鼻祖论文
 
