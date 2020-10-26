@@ -10,9 +10,17 @@
 
 - Sparse low rank factorization for deep neural network compression
 
+- Taxonomy and evaluation of structured compression of convolutional neural networks.  2019
+
 - [A Survey of Methods for Low-Power Deep Learning and Computer Vision](https://arxiv.org/abs/2003.11066) [arXiv  '20]
 
 - [Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://arxiv.org/abs/1802.00939) [arXiv  '18]
+
+  > network pruning, low-rank approximation, network quantization, teacher-student networks, compact network design and hardware accelerators
+
+- Survey of model compression method for neural networks   [arXiv  '18]
+
+- Survey of neural network model compression method   [arXiv  '18]
 
 - [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282) [arXiv  '17]
 
